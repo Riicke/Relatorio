@@ -1,0 +1,17 @@
+# Riicke para [ADM] BeTo
+# wSyck 2015 - WYD BR 7.619
+# Quais funções pegam no WYD 2.0?
+
+- Abrir Bau de qualquer lugar do mapa
+- Teleportar
+- Apagar Itens (Todos)
+- Abrir qualquer NPC de qualquer lugar
+- Comprar de qualquer NPC de qualquer lugar
+- Vender em qualquer NPC de qualquer lugar
+- Agrupar Itens
+- Auto Drop = Apaga itens desnecessarios e agrupa itens selecionados
+
+Aqui uma source que pode ajudar na questão do banco, um NPC Curandeiro que peguei na WebCheats, 
+talvez se fizer um codigo relacionado pode ser resolvido, fazendo possivel abrir o banco apenas das cidades, unico problema seria a joia.
+https://pastebin.com/C2bdpVA0
+___________________________________________________________________________________________________________________________________________
